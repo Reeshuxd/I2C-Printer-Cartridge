@@ -9,10 +9,10 @@ This is the firmware contribution to the paper. It covers two attacks implemente
 
 ```
 firmware/
-├── cartridge_firmware.ino   # Implements the two attacks
-└── printer_firmware.ino     # Detects and logs both attacks
+├── cartridge.ino   # Implements the two attacks
+└── printer.ino     # Detects and logs both attacks
 paper/
-└── attack_documentation.docx
+└── Documentation.docx
 ```
 
 ---
